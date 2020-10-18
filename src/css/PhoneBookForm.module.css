@@ -1,0 +1,20 @@
+.container {
+    padding: 20px;
+    border: 1px solid #F0F8FF;
+    border-radius: 15px;
+    width: max-content;
+    margin-bottom: 40px;
+}
+
+.inputs {
+    margin-bottom: 5px;
+}
+
+.submitBtn {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    background-color: lightseagreen;
+    font-size: 14px;
+    border-radius: 5px;
+}
